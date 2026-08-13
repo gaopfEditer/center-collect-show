@@ -1,0 +1,15 @@
+{
+  "vault_path": "./sample_vault",
+  "weekly_note_pattern": "Weekly-*.md",
+  "inbox_tags": [
+    "inbox/demand",
+    "inbox/traffic",
+    "inbox/tech",
+    "inbox/resources"
+  ],
+  "window": {
+    "title": "Engineer Control Panel",
+    "width": 1440,
+    "height": 900
+  }
+}
